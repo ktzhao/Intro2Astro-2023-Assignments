@@ -1,0 +1,4 @@
+1 methods
+1.1 pulsar timing
+1.2 radial velocity，need high resolution spectrograph
+1.3 transit
